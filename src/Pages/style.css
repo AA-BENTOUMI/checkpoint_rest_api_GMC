@@ -1,0 +1,14 @@
+div.form-class {
+  height: 200px;
+  margin: 2%;
+}
+
+div.form-add {
+  width: 50%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin: 2%;
+  margin-left: 25%;
+}

@@ -1,0 +1,26 @@
+.nav-link {
+  text-decoration: none;
+  color: white;
+}
+
+.footer {
+  width: 100%;
+  margin-top: 5%;
+  text-align: center;
+}
+.card-list {
+  display: inline-block;
+  justify-content: space-between;
+  padding: 2%;
+}
+.card-list div {
+  background-color: gainsboro;
+  padding: 2%;
+  border-radius: 10px;
+}
+.card-list .first-char {
+  background: sandybrown;
+}
+.card-list span {
+  font-size: larger;
+}
